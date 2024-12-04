@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# AI Orchestration: Planning and Orchestrating for Observability
+This is the repository for the LinkedIn Learning course `AI Orchestration: Planning and Orchestrating for Observability`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -28,13 +28,13 @@ To resolve this issue:
 
 ## Instructor
 
-Instructor name
+Fikayo Adepoju
 
-Instructor description
+Technical Writer | Software Developer
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/fikayo-adepoju?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
