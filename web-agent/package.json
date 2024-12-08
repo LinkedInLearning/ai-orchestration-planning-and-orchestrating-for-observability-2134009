@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@langchain/community": "^0.3.16",
+    "@langchain/core": "^0.3.19",
+    "@langchain/langgraph": "^0.2.23",
+    "@langchain/openai": "^0.3.14"
+  },
+  "name": "web-agent",
+  "version": "1.0.0",
+  "main": "agent.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
